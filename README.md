@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><img src="https://flagcdn.com/w20/gb.png" width="25"/> English</td>
-    <td>— Learning (Callan Method)</td>
+    <td>— Basic</td>
   </tr>
   <tr>
     <td><img src="https://flagcdn.com/w20/pl.png" width="25"/> Polish</td>
