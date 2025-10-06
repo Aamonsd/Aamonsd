@@ -1,40 +1,40 @@
-<h1 align="center">👋 Ciao, sono Omar</h1>
+<h1 align="center">👋 Hi, I'm Omar</h1>
 
 <p align="center">
-  💻 Appassionato di tecnologia, intelligenza artificiale e sviluppo software.<br/>
-  🎯 Sto imparando a programmare per creare progetti utili e innovativi.<br/>
-  🚀 Determinato a crescere come sviluppatore indipendente.
+  💻 Passionate about technology, artificial intelligence, and software development.<br/>
+  🎯 Currently learning to build useful and innovative projects from scratch.<br/>
+  🚀 Determined to grow as an independent developer.
 </p>
 
 ---
 
-### 🧠 Chi sono
-- 🎓 Formazione in **Informatica**  
-- 🇮🇹 Basato in **Italia**  
-- 💡 Interesse per **AI, web app e automazione**  
-- 🧩 Approccio pratico e orientato ai risultati
+### 🧠 About Me
+- 🎓 Background in **Computer Science**  
+- 🇮🇹 Based in **Italy**  
+- 💡 Interested in **AI, web apps, and automation**  
+- 🧩 Practical and goal-oriented approach
 
 ---
 
-### 🗣️ Lingue
+### 🗣️ Languages
 <table align="center">
   <tr>
-    <td><img src="https://flagcdn.com/w20/it.png" width="25"/> Italiano</td>
-    <td>— Madrelingua</td>
+    <td><img src="https://flagcdn.com/w20/it.png" width="25"/> Italian</td>
+    <td>— Native</td>
   </tr>
   <tr>
-    <td><img src="https://flagcdn.com/w20/gb.png" width="25"/> Inglese</td>
-    <td>— Base</td>
+    <td><img src="https://flagcdn.com/w20/gb.png" width="25"/> English</td>
+    <td>— Learning (Callan Method)</td>
   </tr>
   <tr>
-    <td><img src="https://flagcdn.com/w20/pl.png" width="25"/> Polacco</td>
-    <td>— Base</td>
+    <td><img src="https://flagcdn.com/w20/pl.png" width="25"/> Polish</td>
+    <td>— Basic</td>
   </tr>
 </table>
 
 ---
 
-### 🧰 Tecnologie e strumenti
+### 🧰 Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -45,15 +45,15 @@
 
 ---
 
-### 📈 Obiettivi
-- Migliorare in **Python e FastAPI**  
-- Apprendere **React** e sviluppo frontend  
-- Pubblicare il mio **primo progetto completo** su GitHub  
-- Creare un portfolio solido da sviluppatore  
+### 📈 Goals
+- Improve my skills in **Python** and **FastAPI**  
+- Learn **React** and modern frontend development  
+- Publish my **first complete project** on GitHub  
+- Build a strong and professional **developer portfolio**
 
 ---
 
-### 💬 Contatti
+### 💬 Contact
 <p align="center">
   <a href="mailto:omarjin970@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -66,6 +66,6 @@
 ---
 
 <div align="center">
-  <p>🌟 “Ogni riga di codice è un passo verso la libertà di creare ciò che immagini.” 🌟</p>
+  <p>🌟 “Every line of code is a step toward the freedom to create what you imagine.” 🌟</p>
   <img src="https://img.shields.io/github/followers/omarjin970?label=Follow%20me&style=social"/>
 </div>
