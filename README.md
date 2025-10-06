@@ -1,10 +1,11 @@
-<h1 align="center">👋 Hi, I'm Omar</h1>
+
 
 <p align="center">
-  💻 Passionate about technology, artificial intelligence, and software development.<br/>
-  🎯 Currently learning to build useful and innovative projects from scratch.<br/>
-  🚀 Determined to grow as an independent developer.
+  <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="100%"/>
 </p>
+
+<h1 align="center">👋 Hi, I'm Omar</h1>
+
 
 ---
 
@@ -13,6 +14,7 @@
 - 🇮🇹 Based in **Italy**  
 - 💡 Interested in **AI, web apps, and automation**  
 - 🧩 Practical and goal-oriented approach
+
 
 ---
 
