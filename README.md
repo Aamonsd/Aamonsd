@@ -67,5 +67,5 @@
 
 <div align="center">
   <p>🌟 “Every line of code is a step toward the freedom to create what you imagine.” 🌟</p>
-  <img src="https://img.shields.io/github/followers/omarjin970?label=Follow%20me&style=social"/>
+  <img src="https://img.shields.io/github/followers/Aamonsd?label=Follow%20me&style=social"/>
 </div>
