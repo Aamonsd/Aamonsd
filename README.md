@@ -6,9 +6,6 @@
 
 <h1 align="center">👋 Hi, I'm Omar</h1>
 
-
----
-
 ### 🧠 About Me
 - 🎓 Background in **Computer Science**  
 - 🇮🇹 Based in **Italy**  
