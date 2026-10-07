@@ -4,67 +4,54 @@
   <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Omar</h1>
+# 👋 Hi, I'm Omar
+
+Aspiring **C# / .NET developer** based in Italy, building real desktop applications to grow towards a junior developer role.
+
+---
 
 ### 🧠 About Me
-- 🎓 Background in **Computer Science**  
-- 🇮🇹 Based in **Italy**  
-- 💡 Interested in **AI, web apps, and automation**  
-- 🧩 Practical and goal-oriented approach
 
-
----
-
-### 🗣️ Languages
-<table align="center">
-  <tr>
-    <td><img src="https://flagcdn.com/w20/it.png" width="25"/> Italian</td>
-    <td>— Native</td>
-  </tr>
-  <tr>
-    <td><img src="https://flagcdn.com/w20/gb.png" width="25"/> English</td>
-    <td>— Basic</td>
-  </tr>
-  <tr>
-    <td><img src="https://flagcdn.com/w20/pl.png" width="25"/> Polish</td>
-    <td>— Basic</td>
-  </tr>
-</table>
+- 🎓 Background in **Computer Science**
+- 🇮🇹 Based in **Italy**
+- 💻 Focused on **C#, .NET and desktop development with WPF**
+- 🧩 Practical, goal-oriented approach: I learn by building complete projects
 
 ---
 
-### 🧰 Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+### 🧰 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github&theme=dark)](https://skillicons.dev)
+
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-68217A?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+**Concepts I work with:** OOP (inheritance, polymorphism, interfaces, abstract classes), generics, delegates and events, LINQ, exception handling, MVVM, JSON file persistence.
 
 ---
 
 ### 📈 Goals
-- Improve my skills in **Python** and **FastAPI**  
-- Learn **React** and modern frontend development  
-- Publish my **first complete project** on GitHub  
-- Build a strong and professional **developer portfolio**
+
+- Complete the WPF interface of **gestione-magazzino**
+- Deepen my knowledge of **C# / .NET**, including data access and testing
+- Land a **junior developer** position working with the .NET ecosystem
+
+---
+
+### 🗣️ Languages
+
+| Language | Level |
+| -------- | ----- |
+| 🇮🇹 Italian | Native |
+| 🇬🇧 English | Basic |
+| 🇵🇱 Polish | Basic |
 
 ---
 
 ### 💬 Contact
-<p align="center">
-  <a href="mailto:omar.dev03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/omar-ould-ali-661b6b2a3">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
----
-
-<div align="center">
-  <p>🌟 “Every line of code is a step toward the freedom to create what you imagine.” 🌟</p>
-  <img src="https://img.shields.io/github/followers/Aamonsd?label=Follow%20me&style=social"/>
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.dev03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ould-ali-661b6b2a3)
